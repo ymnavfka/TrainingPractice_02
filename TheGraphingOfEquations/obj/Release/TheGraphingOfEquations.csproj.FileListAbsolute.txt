@@ -1,0 +1,10 @@
+D:\Programming\C# learning\TrainingPractice_02\TheGraphingOfEquations\bin\Release\TheGraphingOfEquations.exe.config
+D:\Programming\C# learning\TrainingPractice_02\TheGraphingOfEquations\bin\Release\TheGraphingOfEquations.exe
+D:\Programming\C# learning\TrainingPractice_02\TheGraphingOfEquations\bin\Release\TheGraphingOfEquations.pdb
+D:\Programming\C# learning\TrainingPractice_02\TheGraphingOfEquations\obj\Release\TheGraphingOfEquations.csprojAssemblyReference.cache
+D:\Programming\C# learning\TrainingPractice_02\TheGraphingOfEquations\obj\Release\TheGraphingOfEquations.theGraphingOfEquations.resources
+D:\Programming\C# learning\TrainingPractice_02\TheGraphingOfEquations\obj\Release\TheGraphingOfEquations.Properties.Resources.resources
+D:\Programming\C# learning\TrainingPractice_02\TheGraphingOfEquations\obj\Release\TheGraphingOfEquations.csproj.GenerateResource.cache
+D:\Programming\C# learning\TrainingPractice_02\TheGraphingOfEquations\obj\Release\TheGraphingOfEquations.csproj.CoreCompileInputs.cache
+D:\Programming\C# learning\TrainingPractice_02\TheGraphingOfEquations\obj\Release\TheGraphingOfEquations.exe
+D:\Programming\C# learning\TrainingPractice_02\TheGraphingOfEquations\obj\Release\TheGraphingOfEquations.pdb
